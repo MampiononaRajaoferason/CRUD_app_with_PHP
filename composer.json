@@ -1,0 +1,10 @@
+{
+    "name": "mampionona/php_crud_app",
+    "authors": [
+        {
+            "name": "MampiononaRajaoferason",
+            "email": "mampionona@aims.ac.za"
+        }
+    ],
+    "require": {}
+}
