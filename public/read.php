@@ -163,13 +163,10 @@ if( !isset($_POST['sumbmit']))
   <thead>
 <tr>
 <th>Id</th>
-<th>First Name</th>
-<th>Last Name</th>
-<th>Email Address</th>
-<th>Age</th>
-<th>Location</th>
-<th>Date</th>
-<th>Edit</th>
+  <th>Name</th>
+  <th>Class</th>
+  <th>Mark</th>
+  <th>Location</th>
 </tr>
   </thead>
   <tbody>
@@ -220,12 +217,10 @@ else if (isset($_POST['submit'])) {
       <thead>
 <tr>
   <th>Id</th>
-  <th>First Name</th>
-  <th>Last Name</th>
-  <th>Email Address</th>
-  <th>Age</th>
+  <th>Name</th>
+  <th>Class</th>
+  <th>Mark</th>
   <th>Location</th>
-  <th>Date</th>
 </tr>
       </thead>
       <tbody>

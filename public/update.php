@@ -32,7 +32,7 @@ try {
 <table>
   <thead>
     <tr>
-      <th>#</th>
+      <th>Id</th>
       <th>Name</th>
       <th>Class</th>
       <th>Mark</th>
