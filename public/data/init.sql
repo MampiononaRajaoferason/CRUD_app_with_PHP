@@ -8,7 +8,7 @@ CREATE DATABASE studentsDB;
         class varchar(10) NOT NULL default '', 
         mark int(3) NOT NULL default '0', 
         location VARCHAR(50),
-        UNIQUE KEY id (id) );
+        UNIQUE KEY id (id));
 
     INSERT INTO student VALUES (1, 'John Deo', 'Four', 75, "Manchester");
     INSERT INTO student VALUES (2, 'Max Ruin', 'Three', 85, "Liverpool");
